@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6AA0C25B-A5C4-46A0-B4F4-C11BD6B22E99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProjectionMask</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0598FF79-AF20-43AB-B4BF-0FD7DF40F8C4</key>
+		<string>https://github.com/labatrockwell/ProjectionMask.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProjectionMask.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0598FF79-AF20-43AB-B4BF-0FD7DF40F8C4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/labatrockwell/ProjectionMask.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0598FF79-AF20-43AB-B4BF-0FD7DF40F8C4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0598FF79-AF20-43AB-B4BF-0FD7DF40F8C4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ProjectionMask</string>
+		</dict>
+	</array>
+</dict>
+</plist>
